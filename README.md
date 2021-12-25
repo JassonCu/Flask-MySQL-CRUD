@@ -12,13 +12,24 @@ Screenshot Edit Contacts form:
 ![Captura2](https://user-images.githubusercontent.com/85533418/146627744-c52e22b5-f155-4c32-883a-a8ee4e0efaf9.PNG)
 
 
-## To run the program on your computer write the following in the shell
+## Commands to run the program:
+
+```
+https://github.com/Jake-Jake0037/Flask-MySQL-CRUD.git
+```
+
+```
+cd Flask-MySQL-CRUD
+```
 
 ```
 pip install -r requirements.txt
 ```
-After:
 
 ```
-python index.py
+python index.py 
 ```
+
+
+
+
