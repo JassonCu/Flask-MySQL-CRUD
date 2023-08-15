@@ -15,7 +15,7 @@ Screenshot Edit Contacts form:
 ## Commands to run the program:
 
 ```
-https://github.com/Jake-Jake0037/Flask-MySQL-CRUD.git
+https://github.com/JassonCu/Flask-MySQL-CRUD.git
 ```
 
 ```
